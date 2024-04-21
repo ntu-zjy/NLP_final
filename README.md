@@ -5,3 +5,5 @@
 测试Llama-7B chat模型 testchat.py
 
 测试Llama-7B cot微调 testcot.py
+
+(强烈建议cuda版本在12.1以上，并安装最新版torch!!!)
